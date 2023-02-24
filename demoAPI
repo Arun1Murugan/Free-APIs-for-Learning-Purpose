@@ -1,0 +1,11 @@
+Sure, here are some free APIs that you can use for learning purposes:
+
+JSONPlaceholder: Provides a mock RESTful API for testing and prototyping. It offers endpoints for users, posts, comments, albums, and more. The data is all mock data and can be used for testing and learning purposes. URL: https://jsonplaceholder.typicode.com/
+ 
+RESTful-Booker: Provides an API for managing hotel bookings. It offers endpoints for creating, updating, and deleting bookings, as well as retrieving booking and room data. URL: https://restful-booker.herokuapp.com/
+
+Reqres: Provides a mock API for testing and prototyping. It offers endpoints for users, login, and register. The data is all mock data and can be used for testing and learning purposes. URL: https://reqres.in/
+
+Studio Ghibli: Provides an API for retrieving information about Studio Ghibli films, characters, and locations. It offers endpoints for films, people, species, and locations. URL: https://ghibliapi.herokuapp.com/
+
+The Dog API: Provides an API for retrieving information about dogs, including breeds, images, and facts. It offers endpoints for breeds, images, and facts. URL: https://thedogapi.com/
